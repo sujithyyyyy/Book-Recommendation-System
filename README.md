@@ -63,10 +63,14 @@ Book_Recommender_Algo.ipynb - Jupyter Notebook with data processing and model bu
 popular.pkl, books.pkl, pt.pkl, similarity_scores.pkl - Precomputed recommendation data.
 
 📝 Future Enhancements
+
 ✅ Add user-based recommendations.
+
 ✅ Improve UI/UX.
+
 ✅ Enable book search functionality.
 
 
 👨‍💻 Author
+
 Developed by Sujith.
