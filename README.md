@@ -19,19 +19,24 @@ This is a Book recommendation system built using **Streamlit** and **Collaborati
 📊 Data Insights: Allows users to explore the dataset used for recommendations.
 
 🛠️ Installation
-Clone the repository:
+To get started with the project, follow these steps:
 
-git clone https://github.com/your-repo-name.git
+1. Clone the repository:
 
-cd your-repo-name
+    git clone https://github.com/sujithyyyyy/Book-Recommendation-System.git
 
-Install dependencies:
+2. Navigate into the project directory:
+   
+    cd Book-Recommendation-System
 
-pip install -r requirements.txt
+4. Install the required dependencies:
 
-Run the Streamlit app:
+    pip install -r requirements.txt
 
-streamlit run app.py
+
+6. Run the Streamlit app:
+
+   streamlit run app.py
 
 
 📂 Dataset
