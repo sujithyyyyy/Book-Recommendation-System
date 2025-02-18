@@ -1,4 +1,8 @@
-📚 Book Recommender System
+📚 **Book Recommender System**
+
+
+
+
 This is a Book Recommender System built using Streamlit and Collaborative Filtering. The system suggests books based on user preferences and displays the top 50 popular books.
 
 🚀 Features
