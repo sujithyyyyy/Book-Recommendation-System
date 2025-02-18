@@ -3,7 +3,7 @@
 
 
 
-This is a Book recommendation system built using **Streamlit** and **Collaborative Filtering**. It suggests books based on user preferences and displays the **top 50 popular books**.
+This is a Book recommendation system built using **Streamlit** and **Collaborative Filtering**. It suggests books based on **user preferences** and displays the **top 50 popular books**.
 
 
 
